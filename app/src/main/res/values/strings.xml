@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saizi</string>
+    <string name="btn_name">摇骰子</string>
+    <string name="btnn_name">开始摇骰子吧</string>
+</resources>
